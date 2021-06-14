@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![php](https://img.shields.io/badge/php-#7377AD?style=for-the-badge&logo=php&logoColor=white)
+![php](https://img.shields.io/badge/Php-7377AD?style=for-the-badge&logo=php&logoColor=white)
 
 
 ### Database
