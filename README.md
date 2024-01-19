@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I am Ayoub ISSAAD, a Full Stack Developer, System and Network Administrator, Linux and Security Enthusiast and a DevOps Engineer.
+🎓 I am Ayoub ISSAAD, I'm an IT specialist, I love fixing things, solving problems and building interesting products. They say I'm a Cloud and DevOps engineer, but I don't shy away from getting my feet wet in many other domains, coding, system administration, cyber security, digital marketing and a little bit of design as well, You can say that I love to challenge myself and learn new things every now and then.
 
 <!--👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **Django**, **Electron**, **Flutter**, **React** and **TypeScript**. In 2021 till now, I learnt **Next.js**, **SASS**, **Progressive Web App (PWA)** and a bit about **Three.js**. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.-->
 
 <!--🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar**, **break dancing**, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing** though).-->
-
-📚 I love reading books. My favourites ones are **Thinking Fast and Slow** by _DK_.
 
 <!--✈️ I love **travelling** as well, even though its been some time since I last travelled. My last trip was a solo trip to **Bhutan** in _2018_.-->
 
@@ -87,6 +85,6 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=6a3ecbde-fc45-4a80-9f28-884c3894399f)
+[![website](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://aubiss.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayoubissaad/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AyoubIssaad)
